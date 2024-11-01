@@ -1,0 +1,33 @@
+number of dimension = 2, number of levels = 8
+loading metadata
+read file done: #element = 6480000
+Start reconstruction
+Reconstruct time: 0.028821s
+Retrieved data size = 181818
+Max value = 0.989885, min value = -1.66577e-16
+Max error = 0.0339459, pos = 3953205
+MSE = 1.91557e-05, PSNR = 47.0887
+Start reconstruction
+Reconstruct time: 0.020187s
+Retrieved data size = 1282224
+Max value = 0.989885, min value = -1.66577e-16
+Max error = 0.00396264, pos = 1708067
+MSE = 7.43587e-07, PSNR = 61.1984
+Start reconstruction
+Reconstruct time: 0.020163s
+Retrieved data size = 3344652
+Max value = 0.989885, min value = -1.66577e-16
+Max error = 0.000505894, pos = 2484795
+MSE = 2.30521e-08, PSNR = 76.2846
+Start reconstruction
+Reconstruct time: 0.017844s
+Retrieved data size = 5779895
+Max value = 0.989885, min value = -1.66577e-16
+Max error = 4.87864e-05, pos = 4846405
+MSE = 2.74428e-10, PSNR = 95.5274
+Start reconstruction
+Reconstruct time: 0.017806s
+Retrieved data size = 8736638
+Max value = 0.989885, min value = -1.66577e-16
+Max error = 3.99351e-06, pos = 1345310
+MSE = 1.62147e-12, PSNR = 117.813
